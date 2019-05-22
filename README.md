@@ -43,6 +43,9 @@ fork, clone, npm install, npm start
 * Orders
 * Tasks
 
+
+*** You left off here ***
+
 ### Create Containers
 * In each Container:
 * Import `{ connect }` from react-redux
@@ -54,6 +57,8 @@ fork, clone, npm install, npm start
 * Use the connect function and mapStateToProps to turn the component into a container
 * Export the container
   * `export default connect(mapStateToProps)(<COMPONENT-NAME>)`
+
+  *** You left off here ***
 
 ### Think - Why do the other components not care about the store such that we don't need to make them Containers?
 
