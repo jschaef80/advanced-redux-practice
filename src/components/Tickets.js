@@ -35,4 +35,3 @@ const mapStateToProps = (state) => {
 // export default (Tickets);
 export default connect(mapStateToProps,null)(Tickets);
 
-
